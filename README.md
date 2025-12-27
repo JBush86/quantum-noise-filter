@@ -1,3 +1,5 @@
+For the rigorous mathematical derivation and empirical validation of this protocol, see the whitepaper: [Quantum Noise Filter.pdf].
+
 Universal Quantum Noise Filter: Linear-Time Fault Tolerance Diagnostic
 A Python-based simulation protocol for detecting logical error thresholds and phase transitions in quantum error correction (QEC) codes at utility scale (106+ qubits).
 
